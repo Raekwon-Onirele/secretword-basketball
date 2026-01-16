@@ -1,0 +1,11 @@
+.startScreen {
+    background-image: url(../files/4k-basketball-background-7e3bs5fi4o0umshr.jpg);
+    width: 100%;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+.bodyStartScreen {
+    justify-content: center;
+    margin-top: 12em;
+}

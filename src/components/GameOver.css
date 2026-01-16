@@ -1,0 +1,19 @@
+.gameOver {
+    background-image: url(../files/4k-basketball-background-7e3bs5fi4o0umshr.jpg);
+    width: 100%;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+.bodyGameOver {
+    justify-content: center;
+    margin-top: 10em;
+}
+
+.wordRight {
+    text-transform: uppercase;
+}
+
+h2 span {
+    color: rgb(123, 223, 35);
+}
