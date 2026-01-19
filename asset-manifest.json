@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/secretword-basketball/static/css/main.eab9aa2e.css",
-    "main.js": "/secretword-basketball/static/js/main.b5a979e3.js",
+    "main.js": "/secretword-basketball/static/js/main.b1c835ee.js",
     "static/js/453.776a8bcd.chunk.js": "/secretword-basketball/static/js/453.776a8bcd.chunk.js",
     "static/media/4k-basketball-background-7e3bs5fi4o0umshr.jpg": "/secretword-basketball/static/media/4k-basketball-background-7e3bs5fi4o0umshr.2c6464be2dcaa39a720f.jpg",
     "index.html": "/secretword-basketball/index.html",
     "main.eab9aa2e.css.map": "/secretword-basketball/static/css/main.eab9aa2e.css.map",
-    "main.b5a979e3.js.map": "/secretword-basketball/static/js/main.b5a979e3.js.map",
+    "main.b1c835ee.js.map": "/secretword-basketball/static/js/main.b1c835ee.js.map",
     "453.776a8bcd.chunk.js.map": "/secretword-basketball/static/js/453.776a8bcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eab9aa2e.css",
-    "static/js/main.b5a979e3.js"
+    "static/js/main.b1c835ee.js"
   ]
 }
